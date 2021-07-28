@@ -6,4 +6,5 @@ layout: home
 ---
 
 why i didn't get the fantastic web?
-motherfucker why 
+motherfucker why
+why it didn't work? sometimes i can see the changes, but most of situation i can't.
