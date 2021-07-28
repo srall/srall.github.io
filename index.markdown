@@ -6,3 +6,4 @@ layout: home
 ---
 
 why i didn't get the fantastic web?
+motherfucker why 
